@@ -1,0 +1,60 @@
+Class 01
+
+1. Installation
+2. First Java Program
+	print vs println
+	sout
+
+Class 02
+
+	Identifier
+
+	Sapce Not allword
+	0-9, A-Z, $, _ (underscore)
+	Can not start with Digit
+	Java reserved keyword is not allowed
+
+	double a = 10.10
+
+
+	DataType
+
+	byte
+	short
+	int
+	long
+
+	float
+	double
+
+	char
+	booelan
+
+	String
+
+
+	Variables = DataType + Identifier = Value
+
+
+Class 03
+
+	Operator
+
+	Assignment Operator (=)
+	Arithmetic Operator (+ - * / %)
+
+	Odd Even - %2
+	Get the last number - %10
+	Remove the last number - /10   189/10--> 18
+
+
+Class 04
+
+	Relational Operator (< > =< => == !=)
+
+
+	Expression and Priority
+
+		1. Priority ( () , * / %, + - )
+
+		2. Left to right
