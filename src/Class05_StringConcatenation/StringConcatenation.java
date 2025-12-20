@@ -10,7 +10,7 @@ public class StringConcatenation {
 
         System.out.println(str1); //Hello
         System.out.println("str1"); //str1
-        System.out.println(str1 + space + str2);
+        System.out.println(str1 + space + str2);  // Hello World
 
         System.out.println(str1 + a); //Hello10
         System.out.println(str1 + str2 + a + b); //HelloWorld1020
