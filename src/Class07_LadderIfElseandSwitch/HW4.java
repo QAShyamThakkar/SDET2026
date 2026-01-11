@@ -12,7 +12,6 @@ public class HW4 {
             System.out.println(year + " is not a leap year");
         }
 
-
     }
 
 }
