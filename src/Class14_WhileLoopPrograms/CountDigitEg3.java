@@ -7,11 +7,11 @@ package Class14_WhileLoopPrograms;
 public class CountDigitEg3 {
     static void main(String[] args) {
 
-        long num = 123l;  //4
-        int count = 0;
+        long num = 1234l;  //4
+        long count = 0;
 
         while (num > 0) {
-            count = count + 1;   // 1, 2, 3, 4
+            count =  count + 1;   // 1, 2, 3, 4
             num = num / 10;     // 123, 12, 1, 0
         }
 
