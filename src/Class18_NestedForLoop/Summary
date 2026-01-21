@@ -1,0 +1,65 @@
+1. Installation Java and about the computer
+
+2. Data types, identifier and variable
+
+3. Operators
+
+	Assignment (=)
+
+	Arithmetic (+, -, *, /, %)  %2 - Odd even, %10 - get last, /10 - remove
+
+	Logical    (&& || !)
+
+	Relational (<, >, <=, >=, ==, !=)
+
+
+4. if Else
+
+a. Simple if
+
+	if (condition) {
+
+	}
+
+b. if else
+
+	if (condition){
+
+	}else {
+
+	}
+
+c. ladder if else
+
+	if (condition){
+
+	}else if (condition) {
+
+	}else if (condition) {
+
+	}else{
+
+	}
+
+
+5. switch statement
+
+6. Loop - [initialisation, condition, increment/decrement]
+
+	while (condition) {
+
+	}
+
+	forloop (initialisation, condition, increment/decrement) {
+
+	}
+
+	do{
+
+	}while (condition)
+
+7. Array
+
+8. String methods
+
+9. User Defined Methods
