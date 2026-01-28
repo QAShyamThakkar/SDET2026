@@ -1,0 +1,44 @@
+1. What is an Array:
+
+An array is a container in Java that stores
+    multiple values of the same type in a single variable.
+
+2. Key Points
+
+    Element must same data type
+    Index start with 0 (first element)
+    Access the element using index
+
+3. How to create an array:
+
+    int a[] = {10,20,30,40};     --- Declaration and initialisation
+
+    int b[] = new int[1000];     --- Declaration
+    b[0]=10;                     --- Assignment
+    b[1]=11;
+
+4. Access the element
+    System.out.println(a[4]); -- Exception - Array Index Out of Bound
+    System.out.println(b[5]); -- 0
+    System.out.println(b[1001]); -- Exception - Array Index Out of Bound
+
+5. Array Length
+    System.out.println(a.length); // 4
+
+6. Loop through Array
+
+   Regular for loop
+
+    for (int i = 0;  i < a.length; i++){
+        System.out.println(a[i]);
+    }
+
+   Enhanced for loop (for each loop)
+
+   for(int num : a) {
+         System.out.println(num);
+   }
+
+
+
+
