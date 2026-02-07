@@ -1,6 +1,4 @@
-package Class29_ReviewClass31_UserDefinedMethods;
-
-import java.util.Scanner;
+package Class31_ReviewClass31_UserDefinedMethods;
 
 public class UserDefinedMethodsEg3 {
     static void main(String[] args) {
