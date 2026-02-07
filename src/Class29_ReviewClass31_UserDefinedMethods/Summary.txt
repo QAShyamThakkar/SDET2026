@@ -1,0 +1,66 @@
+======================= Core Java (20%) ====================================
+1. Data Types, Variables and Identifier
+
+2. Operator
+    Assignment (=)
+    Arithmetic (+, -, *, /, %)
+    Relational (<, >, <=, >=, ==, !)
+    Logical (&&, ||, !)
+    Increment/Decrement (++, +=, --)
+
+3. Expression and Priority  (1st Check priority, if priority is equal left to right)
+   String Concatenation (+)
+
+4. If else (to make decision)
+
+    Simple if
+    If else
+    Ladder if else ->> switch case statement
+    Nested if else
+
+5. Loop - when we have repetitive task
+
+    While
+    For loop
+    for each (enhanced for loop) - for Array
+    nested for loop (when we to work table format)
+    Do while --
+
+6. Array
+
+    1D Array
+    2D Array
+
+7. String Methods (13 Methods)
+
+8. Review Class (Pre Increment, Continue)
+========================================================================================
+
+OOP  (20%)
+
+1. User Defined Methods
+2. Class and Objects
+
+
+6. Review
+
+10.
+
+=======================================================================================
+
+Selenium (20%)
+
+=======================================================================================
+Testing Frameworks (20%)
+
+    Maven
+    TestNG
+    Cucumber
+=========================================================================================
+Database (SQL) (10%)
+API (10%)
+===============================================================================================
+Git hub
+
+Jenkins - video recoding
+
