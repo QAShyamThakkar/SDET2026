@@ -1,0 +1,19 @@
+Class  		- Blueprint of object
+Object 		- Instance of Class
+Constructor 	- Used to initialize the class variable
+
+Rules of Constructor
+1) Constructor name has to be same as class name
+2) It must not have return type
+3) It will get call automatically when we create object of class
+4) It can have access modifier like public, private etc.
+
+Types of Constructor 
+1) Default Constructor 	- Created by java
+2) No Arg Constructor 	- Constructor without parameter
+3) Parameterized 	- Constructor with Parameters
+
+Inheritance - One class can acquire members(variables + methods) of other class by using extends keyword
+    -> Constructor Chaining
+        * when we create object of Child class, by default java will call constructor of parent class first
+

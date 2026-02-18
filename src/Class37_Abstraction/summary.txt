@@ -1,0 +1,28 @@
+Class is blueprint for Object
+Abstract Class is blueprint for sub class
+
+ Abstract Class in Java
+
+1. Definition:
+a)	An abstract class in Java is a class that cannot be instantiated, meaning you cannot create objects of an abstract class.
+b)	It is used as a base for other classes.
+c)	It can contain abstract methods (methods without a body) as well as concrete methods (regular methods with a body).
+
+2. Purpose:
+a)	The primary purpose of an abstract class is to provide a common definition of a base class that multiple derived classes can share.
+b)	It allows you to define a template for a group of subclasses.
+c)	They enforce a contract for subclasses to follow, which can help in reducing errors and improving code readability.
+
+
+3. Characteristics:
+
+a)	We can have an abstract method because we don't want implementation
+b)	If we have an abstract method, the class should be declared as abstract.
+c)	We can NOT create an object of abstract class
+d)	A class derived from an abstract class must implement all its abstract methods, unless the derived class is also abstract
+
+e)	We can have abstract as well as non-abstract methods in abstract class
+f)	An abstract class does not need to contain abstract methods (0% to 100% abstraction).
+g)	We can have variables in the abstract class
+h)	We can have a constructor in the abstract class
+i)	We can have a static Method in the abstract class
