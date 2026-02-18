@@ -17,3 +17,40 @@ Inheritance - One class can acquire members(variables + methods) of other class 
     -> Constructor Chaining
         * when we create object of Child class, by default java will call constructor of parent class first
 
+Revision:
+
+OOPs
+
+1. Class and Object
+
+	class  - blueprint for object
+	object - instance of class (result of blueprint)
+
+
+class contains - variable, methods, constructor
+
+2. Constructor - to initialize the class variables
+
+3. Inheritance
+	- Parent class and Child class
+	- extends to achieve inheritance
+
+	One class can acquire properties (variables + method) of another class
+
+4. Polymorphism
+
+
+	a. Method Overloading  - SAME CLASS
+
+	b. Method Overridding  - SAME CLASS
+
+5. Encapsulation-
+
+	hiding the variables
+
+	Access Modifier
+		public
+		private -- variable
+		default
+
+6. Abstraction - refer txt file from Class 37
