@@ -1,4 +1,4 @@
-package Class31_ReviewClass31_UserDefinedMethods;
+package Class31_UserDefinedMethods;
 
 public class UserDefinedMethodsEg3 {
     static void main(String[] args) {
@@ -11,7 +11,6 @@ public class UserDefinedMethodsEg3 {
         countNUm(12345); //5
 
         // 12345
-
 
     }
 

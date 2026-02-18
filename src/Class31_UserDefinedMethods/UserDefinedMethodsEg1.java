@@ -1,4 +1,4 @@
-package Class31_ReviewClass31_UserDefinedMethods;
+package Class31_UserDefinedMethods;
 
 import java.util.Scanner;
 
