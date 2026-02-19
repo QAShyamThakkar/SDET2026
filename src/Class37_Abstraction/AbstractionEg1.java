@@ -4,7 +4,6 @@ abstract class Car {
     int a;
     Car(){}
 
-
     public abstract void drive();
 
     public abstract void fly();
@@ -33,7 +32,7 @@ class BMW extends Car {
 
 public class AbstractionEg1 {
     static void main(String[] args) {
-//        Car c = new Car();  // No, we can ot create object from Abstract class
+//        Car c = new Car();  // No, we can not create object from Abstract class
 
         BMW b = new BMW();
         b.playMusic();
