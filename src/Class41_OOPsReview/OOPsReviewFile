@@ -1,0 +1,75 @@
+=========== Core Java ===========================
+
+1. Variable and Operators
+2. If Statement
+3. Loop Statement
+4. Array
+5. String Methods
+6. User Defined Methods
+
+========================= OOPs ============================
+
+1. Class  - Blueprint for the Object
+
+2. Object - Instance of Class
+
+3. Constructor - To initialise the class variables
+
+4. Types of Variable -
+		Local
+		Instance
+		Static
+
+5. Static Keyword - Directly we can access with ClassName (No need to create object)
+
+		Static Variable - Common to each object - Class Level
+		Static Method   - Inside method only Static variables are allowed
+
+============= Pillars of OOPs ============================================
+
+6. Inheritance -
+		When one class acquire properties and methods of another class
+		This is achieved by 'extends' keyword
+
+	a) Constructor Chaining
+		It is a mechanism where Object of Child class - First call constructor of Parent Class and the child class
+
+	b) This Keyword - Reference of Current class object
+
+	c) Super Keyword - Reference of Parent class object
+
+
+7. Polymorphism
+
+	Method Overloading       			Method Overriding
+
+	Two Methods having Same Name			When we have Parent and Child Class
+
+	But Different Parameters (Num or Type)		Child class can have SAME method
+
+	In the Same Class				But different implementation
+
+8. Encapsulation
+
+	- Wrapping up the data and methods into one single unit called encapsulation
+
+	- Getter and Setter methods to access the class Variable (private)
+
+	- Access Modifier
+
+		Public  - Everywhere
+		Private - Inside Class Only
+		Default - Inside package only
+
+9. Abstraction and Interface
+
+Abstraction  (0% to 100%)
+
+		When we have abstract Method - declare the class as abstract class
+		Abstract Method - Do not have implementation (body)
+		Child class have responsibility to implement it
+		We an NOT create object of abstract class
+
+Interface = 100% abstraction
+		Variable - public static and final
+		Multiple inheritance
